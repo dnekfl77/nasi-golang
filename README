@@ -1,1 +1,4 @@
 # nasi-golang
+
+### 실행 방법
+> `go run main.go`
